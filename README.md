@@ -1,2 +1,2 @@
 # Kenari-MachineLearning
-Mental Health Machine Learning Chatbot
+Mental Health Chatbot with Machine Learning
